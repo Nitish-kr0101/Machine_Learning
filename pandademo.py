@@ -30,3 +30,5 @@ print(df.sort_values('Salary', ascending=False)[['Name', 'Department', 'Salary']
 
 print("\n=== Count Employees by Department ===")
 print(df['Department'].value_counts())
+
+#panda demo
